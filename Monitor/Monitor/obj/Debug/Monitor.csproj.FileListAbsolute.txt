@@ -1,0 +1,7 @@
+C:\Users\foplt\source\repos\Monitor\Monitor\bin\Debug\Monitor.exe
+C:\Users\foplt\source\repos\Monitor\Monitor\bin\Debug\Monitor.pdb
+C:\Users\foplt\source\repos\Monitor\Monitor\obj\Debug\Monitor.csprojAssemblyReference.cache
+C:\Users\foplt\source\repos\Monitor\Monitor\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\foplt\source\repos\Monitor\Monitor\obj\Debug\Monitor.exe
+C:\Users\foplt\source\repos\Monitor\Monitor\obj\Debug\Monitor.pdb
+C:\Users\foplt\source\repos\Monitor\Monitor\bin\Debug\Monitor.exe.config
